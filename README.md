@@ -7,3 +7,8 @@ git clone https://github.com/HackFisher/hackfisher-vim.git
 cd hackfisher-vim/ubuntu
 sudo sh preconfig.sh
 cp -r . ~
+
+**mac**
+git clone https://github.com/HackFisher/hackfisher-vim.git
+cd hackfisher-vim/mac
+cp -r . ~
