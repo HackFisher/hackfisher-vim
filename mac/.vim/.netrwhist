@@ -1,7 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/Users/cleney/.vim/autoload'
-let g:netrw_dirhist_2='/Users/cleney/.vim/bundle/nerdtree/plugin'
-let g:netrw_dirhist_3='/Users/cleney/Temp/cleney/client'
-let g:netrw_dirhist_4='/Library/Python/2.7/site-packages/web.py-0.36-py2.7.egg'
-let g:netrw_dirhist_5='/Users/cleney/Temp/webpy/sessions'
