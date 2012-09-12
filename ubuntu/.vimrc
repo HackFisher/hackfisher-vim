@@ -48,7 +48,12 @@ endif
 "set hidden             " Hide buffers when they are abandoned
 "set mouse=a		" Enable mouse usage (all modes)
 set number
+set autoindent
+set smartindent
 set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set expandtab
 
 " Source a global configuration file if available
 if filereadable("/etc/vim/vimrc.local")
