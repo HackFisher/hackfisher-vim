@@ -61,3 +61,5 @@ if filereadable("/etc/vim/vimrc.local")
 endif
 
 call pathogen#infect()
+
+filetype plugin on
