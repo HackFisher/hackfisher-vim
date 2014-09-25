@@ -80,3 +80,5 @@ nnoremap <leader>tl : Tlist<CR>        "设置关闭和打开taglist窗口的快
 set laststatus=2
 let g:airline#extensions#tabline#enabled = 1
 
+" make that the buff/string can copy from other program in insert mode
+set paste
